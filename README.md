@@ -1,6 +1,6 @@
 - 👋 Hola!
 - 📝Actualmente estudiando Licenciatura en Sistemas de Información en UADER
-- 📕 En constante aprendizaje de  CSS, JS,NodeJs+Express, MySql ,React.
+- 📕 En constante aprendizaje de  CSS, JS,NodeJs+Express, MySql ,React,C++.
 - 📫 Mi contacto: Ivanalexischanenko@gmail.com
 
 <!---
