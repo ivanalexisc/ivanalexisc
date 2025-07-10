@@ -29,6 +29,7 @@ I'm a self-taught full stack developer and Computer Science student with a passi
   <a href="https://www.w3.org/TR/CSS/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" alt="CSS3" /></a>
   <a href="https://getbootstrap.com/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" alt="Bootstrap" /></a
 <a href="https://www.oracle.com/java/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" alt="Java" /></a>
+</p>
 ### 📫 Contact Me
 
 <p align="left">
