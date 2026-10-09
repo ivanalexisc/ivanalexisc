@@ -13,7 +13,7 @@ modern web systems, technology migrations and legacy app optimization.
 - 🔭 Currently working on migrating a legacy Java 8 billing system to Next.js + NestJS at FactuFlix®
 - 🏗️ Founder of Cai Web Studio — custom web development for SMEs
 - 🌱 Always improving: Clean Architecture, testing, CI/CD
-- 💬 Ask me about React, Next.js, NestJS, Node.js, PostgreSQL or REST APIs
+- 💬 Ask me about Typescript, React, Next.js, NestJS, Node.js, PostgreSQL, Docker, CI/CD or REST APIs
 
 ---
 
